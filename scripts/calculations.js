@@ -51,8 +51,9 @@ return totalExpensesValue;
  gastoalto = categoriesData[i][1];
  mayorgasto = categoriesData[i][0];
  }
- return mayorgasto;
 }
+return mayorgasto;
+
 }
 
  function addExpenseEntry(newEntry) {
